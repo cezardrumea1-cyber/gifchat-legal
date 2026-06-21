@@ -76,7 +76,9 @@ We are **not responsible for User Content** or for the conduct of any user. Inte
 
 To the maximum extent permitted by law, Cezar Drumea and GifChat will **not be liable for any indirect, incidental, special, consequential, or punitive damages**, or for any loss of data, profits, or goodwill, arising out of or related to your use of (or inability to use) the app, even if advised of the possibility of such damages.
 
-To the maximum extent permitted by law, our total liability for any claim related to the app will not exceed the greater of (a) the amount you paid us, if any, in the 12 months before the claim, or (b) [AMOUNT — CONFIRM WITH LAWYER].
+To the maximum extent permitted by law, our total liability for any claim related to the app will not exceed the greater of (a) the amount you paid us, if any, in the 12 months before the claim, or (b) €50.
+
+*[Note: liability cap amount to be confirmed with lawyer before public launch.]*
 
 ## 12. Indemnification
 
@@ -88,7 +90,9 @@ We may update these Terms from time to time. We will update the "Last updated" d
 
 ## 14. Governing Law
 
-These Terms are governed by the laws of Romania [DISPUTE RESOLUTION / VENUE — CONFIRM WITH LAWYER], without regard to conflict-of-law principles.
+These Terms are governed by the laws of Romania, without regard to conflict-of-law principles.
+
+*[Note: dispute resolution mechanism and venue to be confirmed with lawyer before public launch.]*
 
 ## 15. Contact
 
