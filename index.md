@@ -1,6 +1,6 @@
 # Privacy Policy for GifChat
 
-**Last updated: June 21, 2026**
+**Last updated: September 25, 2026**
 
 ---
 
@@ -19,7 +19,9 @@ If you have any questions, contact us at: **gifchatlegal@gmail.com**
 **GifChat is built around AI. To turn your text into reaction GIFs, the content you type — including the text of your messages and conversation context — is sent to third-party AI providers (OpenAI and Anthropic) for processing.** This is essential to how the app works. Specifically:
 
 - **OpenAI** receives your message text, post captions, and search queries to generate "embeddings" used to match your words to relevant GIFs.
-- **Anthropic (Claude)** receives your message text and surrounding conversation context to break messages into emotional segments so the app can pick fitting GIFs.
+- **Anthropic (Claude)** receives your message text and surrounding conversation context to break messages into emotional segments so the app can pick fitting GIFs. When you make a chat video, it also receives what you write in the video chat (your idea, answers and change requests) to write and rewrite the video script.
+- **OpenAI (Whisper)** receives voice recordings you send or speak into the video chat, to turn them into text.
+- **ElevenLabs** receives the text of video scripts to turn them into spoken voices.
 
 These providers process this content to provide the GIF-matching service. We do not use this content to build advertising profiles. Please review OpenAI's and Anthropic's privacy policies to understand their data practices. **By using GifChat's messaging and GIF features, you consent to this AI processing of your content.**
 
@@ -76,7 +78,9 @@ We do not sell your personal information. We share information only with the thi
 | Provider | What is shared | Purpose |
 |---|---|---|
 | **OpenAI** | Message text, post captions, search queries | AI GIF matching (embeddings) |
-| **Anthropic (Claude)** | Message text + conversation context | AI message segmentation for GIF selection |
+| **Anthropic (Claude)** | Message text + conversation context; what you write in the video chat | AI message segmentation for GIF selection; writing video scripts |
+| **OpenAI (Whisper)** | Voice recordings | Turning speech into text |
+| **ElevenLabs** | Video script text | Generating spoken voices for chat videos |
 | **AWS Rekognition** | Image/video frames you upload | Content moderation |
 | **Supabase** | Account and app data | Database, authentication, and file storage |
 | **Railway** | App data in transit | Backend hosting |
