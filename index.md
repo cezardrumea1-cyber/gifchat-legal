@@ -1,6 +1,6 @@
 # Privacy Policy for GifChat
 
-**Last updated: September 28, 2026**
+**Last updated: September 29, 2026**
 
 ---
 
@@ -19,7 +19,7 @@ If you have any questions, contact us at: **gifchatlegal@gmail.com**
 **GifChat is built around AI. To turn your text into reaction GIFs, the content you type — including the text of your messages and conversation context — is sent to third-party AI providers (OpenAI, Anthropic and Groq) for processing.** This is essential to how the app works. Specifically:
 
 - **OpenAI** receives your message text, post captions, and search queries to generate "embeddings" used to match your words to relevant GIFs.
-- **Anthropic (Claude)** receives your message text and surrounding conversation context to break messages into emotional segments so the app can pick fitting GIFs, and to read the overall mood of a conversation between people (for example tense or affectionate) so the chat screen can show matching visual effects; you can turn these effects off in Settings › Appearance › Mood effects. When you make a chat video, it also receives what you write in the video chat (your idea, answers and change requests) to write and rewrite the video script.
+- **Anthropic (Claude)** receives your message text and surrounding conversation context to break messages into emotional segments so the app can pick fitting GIFs, and to read the overall mood of a conversation between people (for example tense or affectionate) so the chat screen can show matching visual effects; you can turn these effects off in Settings › Appearance › Mood effects. If Anthropic is unavailable, this mood check is sent to **OpenAI** instead. When you make a chat video, it also receives what you write in the video chat (your idea, answers and change requests) to write and rewrite the video script.
 - **Groq** receives the text of short messages and the conversation context to split them into segments for GIF matching.
 - **OpenAI (Whisper)** receives voice recordings you send or speak into the video chat, to turn them into text.
 - **ElevenLabs** receives the text of video scripts to turn them into spoken voices.
