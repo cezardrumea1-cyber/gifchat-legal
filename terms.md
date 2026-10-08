@@ -1,6 +1,6 @@
 # Terms of Service for GifChat
 
-**Last updated: June 21, 2026**
+**Last updated: October 8, 2026**
 
 ---
 
@@ -33,7 +33,15 @@ GifChat uses artificial intelligence to turn your text into reaction GIFs. To pr
 
 **Your responsibility:** You are solely responsible for your User Content and the consequences of posting it. You represent that you have the rights to the content you post and that it does not violate these Terms or any law.
 
-## 6. Acceptable Use / Prohibited Conduct
+## 6. Copyright, Packs and Borders
+
+- **You must have the rights.** If you publish GIF packs, borders, GIFs or other material, you must own it or have the copyright owner's permission to share it on GifChat.
+- **License for packs and borders:** The license in Section 5 covers what you publish, including packs and borders: you grant us a non-exclusive, worldwide, royalty-free license to host, store, display, reproduce, and distribute it in the app so other users can see and use it.
+- **Removal on notice:** We may remove or disable content when we receive a copyright notice about it (under the US Digital Millennium Copyright Act, 17 U.S.C. §512, or the EU Digital Services Act), and we will tell you if your content is removed. If you believe it was removed by mistake, you can send a counter-notice.
+- **Repeat infringers:** Accounts that receive 3 valid copyright notices ("strikes") within 12 months are terminated. A strike is removed if its notice is withdrawn or successfully countered.
+- How to report copyrighted material, or to send a counter-notice, is explained in our [Copyright & DMCA policy](https://gifchat.app/copyright).
+
+## 7. Acceptable Use / Prohibited Conduct
 
 You agree **not** to use GifChat to:
 
@@ -45,34 +53,34 @@ You agree **not** to use GifChat to:
 - Upload viruses, malware, or any code intended to harm the app or other users.
 - Attempt to gain unauthorized access to the app, other users' accounts, or our systems.
 - Scrape, harvest, or collect other users' data without authorization.
-- Infringe the intellectual property or privacy rights of others.
+- Infringe the intellectual property or privacy rights of others, including uploading packs, borders, GIFs or other material copied from someone else's copyrighted work without permission.
 - Circumvent or interfere with the app's security, rate limits, or content moderation.
 - Use the app for any unlawful purpose or in violation of these Terms.
 
-## 7. Content Moderation and Enforcement
+## 8. Content Moderation and Enforcement
 
 - We use automated content moderation (including AWS Rekognition) to detect prohibited content in uploaded images and videos before they are published.
 - **We reserve the right, but are not obligated, to review, monitor, remove, or restrict any User Content, and to suspend or terminate accounts, at our discretion** — including content or accounts that violate these Terms or that we consider harmful, without prior notice.
 - We may report illegal content or activity to law enforcement.
 - You can report content or users through the in-app reporting features.
 
-## 8. Termination
+## 9. Termination
 
 - You may stop using GifChat and delete your account at any time.
 - We may suspend or terminate your access to GifChat at any time, with or without notice, if you violate these Terms, if required by law, or to protect the app or other users.
 - Upon termination, your right to use the app ends. Provisions that by their nature should survive termination (such as content licensing for already-shared content, disclaimers, and limitations of liability) will survive.
 
-## 9. Third-Party Services
+## 10. Third-Party Services
 
 GifChat relies on third-party services (including OpenAI, Anthropic, AWS, Supabase, Railway, Expo, and Stripe) to operate. We are not responsible for the practices of these third parties. Your use of the app may be subject to their terms and policies.
 
-## 10. Disclaimers
+## 11. Disclaimers
 
 GifChat is provided **"as is" and "as available," without warranties of any kind**, express or implied, including warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not warrant that the app will be uninterrupted, error-free, secure, or that GIF matches, content, or features will meet your expectations.
 
 We are **not responsible for User Content** or for the conduct of any user. Interactions between users are solely between those users.
 
-## 11. Limitation of Liability
+## 12. Limitation of Liability
 
 To the maximum extent permitted by law, Cezar Drumea and GifChat will **not be liable for any indirect, incidental, special, consequential, or punitive damages**, or for any loss of data, profits, or goodwill, arising out of or related to your use of (or inability to use) the app, even if advised of the possibility of such damages.
 
@@ -80,21 +88,21 @@ To the maximum extent permitted by law, our total liability for any claim relate
 
 *[Note: liability cap amount to be confirmed with lawyer before public launch.]*
 
-## 12. Indemnification
+## 13. Indemnification
 
 You agree to indemnify and hold harmless Cezar Drumea and GifChat from any claims, damages, losses, or expenses (including reasonable legal fees) arising out of your User Content, your use of the app, or your violation of these Terms or any law or third-party rights.
 
-## 13. Changes to These Terms
+## 14. Changes to These Terms
 
 We may update these Terms from time to time. We will update the "Last updated" date and, where appropriate, notify you in the app. Continued use of GifChat after changes means you accept the updated Terms.
 
-## 14. Governing Law
+## 15. Governing Law
 
 These Terms are governed by the laws of Romania, without regard to conflict-of-law principles.
 
 *[Note: dispute resolution mechanism and venue to be confirmed with lawyer before public launch.]*
 
-## 15. Contact
+## 16. Contact
 
 If you have questions about these Terms, contact us at:
 
