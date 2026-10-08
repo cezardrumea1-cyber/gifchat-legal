@@ -1,6 +1,6 @@
 # Privacy Policy for GifChat
 
-**Last updated: October 8, 2026**
+**Last updated: October 9, 2026**
 
 ---
 
@@ -84,6 +84,7 @@ We do not sell your personal information. We share information only with the thi
 | **OpenAI (Whisper)** | Voice recordings | Turning speech into text |
 | **ElevenLabs** | Video script text | Generating spoken voices for chat videos |
 | **AWS Rekognition** | Image/video frames you upload | Content moderation |
+| **Higgsfield (Kling video models)** | A Face pack photo and the GIF frames it goes on | Making the Face pack GIFs you ordered |
 | **Supabase** | Account and app data | Database, authentication, and file storage |
 | **Railway** | App data in transit | Backend hosting |
 | **Expo (push notifications)** | Push tokens, notification content | Delivering push notifications |
@@ -124,6 +125,19 @@ You can delete your account at any time from within the app (Settings → Delete
 Depending on your location, you may have rights to access, correct, or request deletion of your personal data, and to object to or restrict certain processing. **If you are in the European Union/EEA, you have rights under the GDPR.** To exercise any of these rights, contact us at **gifchatlegal@gmail.com**.
 
 ---
+
+## Face photos (Face packs)
+
+You can order a Face pack: GIFs of a character remade with a face from one photo you upload.
+
+- **What we collect:** one face photo per pack, your consent record (the wording you agreed to, its version, time, account and IP address) and a one-way hash (SHA-256) of the photo. We do not build face templates or use the photo to recognise anyone.
+- **Why:** only to make the GIFs you ordered, and to check the photo shows one clear face and is not inappropriate.
+- **Who processes it:** our AI video partner Higgsfield, which runs the Kling video models (it receives the photo and the GIF frames, not your name, email or account); Supabase (private storage of the photo, and the finished GIFs); AWS Rekognition (moderation); Railway (our servers).
+- **No training:** we do not use your photo or your Face pack GIFs to train AI models.
+- **Not shared:** the photo is never shown to other people. Your Face pack is private; others see a Face pack GIF only if you send it to them.
+- **Retention:** the photo is deleted when your pack is made; if you still have GIF credits from that face it is kept for at most 30 days, then deleted. GIFs stay until you delete them, the pack or your account. The consent record and the photo's hash are kept to show permission was given and to handle complaints or legal claims.
+- **Your choices:** delete Face pack GIFs, the pack or your account in the app, or email us to delete a photo early. If your face was used without permission, contact us and we will remove it.
+- **Other people's faces:** upload only your own face or the face of someone who gave you permission (you must tick that you have it). Never upload a photo of anyone under 18.
 
 ## Children's Privacy
 
