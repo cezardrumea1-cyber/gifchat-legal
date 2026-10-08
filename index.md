@@ -1,12 +1,12 @@
 # Privacy Policy for GifChat
 
-**Last updated: September 29, 2026**
+**Last updated: October 8, 2026**
 
 ---
 
 ## Introduction
 
-This Privacy Policy explains how GifChat ("we," "us," "the app," "GifChat") collects, uses, stores, and shares your information when you use our mobile application. GifChat is operated by Cezar Drumea, an individual developer, based in Romania.
+This Privacy Policy explains how GifChat ("we," "us," "the app," "GifChat") collects, uses, stores, and shares your information when you use our mobile application. GifChat is operated by Cezar Drumea, an individual developer, based in the Republic of Moldova (postal address: str. Academician Eugen Coșeriu 16, MD-2021 Chișinău, Republic of Moldova).
 
 By creating an account and using GifChat, you agree to the collection and use of information in accordance with this policy. If you do not agree, please do not use the app.
 
@@ -150,4 +150,4 @@ If you have questions about this Privacy Policy or your data, contact us at:
 **gifchatlegal@gmail.com**
 
 Cezar Drumea
-Romania
+str. Academician Eugen Coșeriu 16, MD-2021 Chișinău, Republic of Moldova

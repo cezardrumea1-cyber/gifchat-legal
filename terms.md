@@ -6,7 +6,7 @@
 
 ## 1. Acceptance of Terms
 
-Welcome to GifChat. These Terms of Service ("Terms") govern your access to and use of the GifChat mobile application ("GifChat," "the app," "we," "us," "our"), operated by Cezar Drumea, an individual based in Romania.
+Welcome to GifChat. These Terms of Service ("Terms") govern your access to and use of the GifChat mobile application ("GifChat," "the app," "we," "us," "our"), operated by Cezar Drumea, an individual based in the Republic of Moldova (postal address: str. Academician Eugen Coșeriu 16, MD-2021 Chișinău, Republic of Moldova).
 
 By creating an account or using GifChat, you agree to be bound by these Terms and by our Privacy Policy. If you do not agree, do not use the app.
 
@@ -98,7 +98,7 @@ We may update these Terms from time to time. We will update the "Last updated" d
 
 ## 15. Governing Law
 
-These Terms are governed by the laws of Romania, without regard to conflict-of-law principles.
+These Terms are governed by the laws of the Republic of Moldova, without regard to conflict-of-law principles.
 
 *[Note: dispute resolution mechanism and venue to be confirmed with lawyer before public launch.]*
 
@@ -109,4 +109,4 @@ If you have questions about these Terms, contact us at:
 **gifchatlegal@gmail.com**
 
 Cezar Drumea
-Romania
+str. Academician Eugen Coșeriu 16, MD-2021 Chișinău, Republic of Moldova
