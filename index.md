@@ -79,12 +79,13 @@ We do not sell your personal information. We share information only with the thi
 | Provider | What is shared | Purpose |
 |---|---|---|
 | **OpenAI** | Message text, post captions, search queries | AI GIF matching (embeddings) |
-| **Anthropic (Claude)** | Message text + conversation context; what you write in the video chat | AI message segmentation for GIF selection; conversation mood for chat effects; writing video scripts |
+| **Anthropic (Claude)** | Message text + conversation context; what you write in the video chat; the character picture for an animated border | AI message segmentation for GIF selection; conversation mood for chat effects; writing video scripts; designing and checking animated border frames |
 | **Groq** | Short message text + conversation context | AI message segmentation for GIF selection |
 | **OpenAI (Whisper)** | Voice recordings | Turning speech into text |
 | **ElevenLabs** | Video script text | Generating spoken voices for chat videos |
 | **AWS Rekognition** | Image/video frames you upload | Content moderation |
 | **Higgsfield (Kling video models)** | A Face pack photo and the GIF frames it goes on | Making the Face pack GIFs you ordered |
+| **Kling AI (Kuaishou)** | The cut-out character picture for an animated border you bought | Making its reaction animations |
 | **Supabase** | Account and app data | Database, authentication, and file storage |
 | **Railway** | App data in transit | Backend hosting |
 | **Expo (push notifications)** | Push tokens, notification content | Delivering push notifications |
@@ -98,7 +99,7 @@ We may also disclose information if required by law, to protect rights and safet
 
 ## Where Your Data Is Stored
 
-Your data is stored using Supabase (which uses cloud infrastructure located in EU-West-1 / Ireland). By using the app, you understand your data may be processed and stored in this location and by the third-party providers listed above (some of which are located in the United States).
+Your data is stored using Supabase (which uses cloud infrastructure located in EU-West-1 / Ireland). By using the app, you understand your data may be processed and stored in this location and by the third-party providers listed above (some of which are located in the United States or Singapore).
 
 ---
 
@@ -138,6 +139,14 @@ You can order a Face pack: GIFs of a character remade with a face from one photo
 - **Retention:** the photo is deleted when your pack is made; if you still have GIF credits from that face it is kept for at most 30 days, then deleted. GIFs stay until you delete them, the pack or your account. The consent record and the photo's hash are kept to show permission was given and to handle complaints or legal claims.
 - **Your choices:** delete Face pack GIFs, the pack or your account in the app, or email us to delete a photo early. If your face was used without permission, contact us and we will remove it.
 - **Other people's faces:** upload only your own face or the face of someone who gave you permission (you must tick that you have it). Never upload a photo of anyone under 18.
+
+## Animated borders
+
+You can make an animated border: a frame built around a character picture you choose.
+
+- **What we collect:** the picture you pick and a cut-out of the character from it (PNG). On iPhone the background is removed on your device with Apple's Vision framework; nothing is sent for that step.
+- **Who processes it:** Supabase (storage of the original picture, the cut-out and the finished clips); AWS Rekognition (moderation); Anthropic (Claude), which receives the cut-out picture to design the frame (colours, material, placement) and check the result; Railway (our servers). If you buy "Animate", the cut-out picture is sent to Kling AI (Kuaishou's Kling API, operated from Singapore) to make 6 short reaction animations. Only the picture and a text prompt are sent, not your name, email or account.
+- **Shared to Community:** a border you share to Community is public, shown with your username.
 
 ## Children's Privacy
 
